@@ -1,0 +1,17 @@
+red houses:        (335.5,69) , (291.5,112) , (374.7,112) , (335,154)
+green houses:      (662.5,69) , (619,112) , (701,112) , (662.5,154)
+yellow houses:     (662.5,395) , (619,439) , (701.5,439) , (662.5,480)
+blue houses:       (335.7,395) , (291,439) , (375,439) , (335,480.5)
+
+start positions:
+    red:          (286.2,234)                           green:        (536.8,63.85)
+    yellow:       (706.4,315)                           blue:         (455.8,484.05)
+
+distance between the center of successive positions:
+    adjacent positions:     regular: 33.4                    large:  40.5
+    diagonal positions:     36 , 36.55
+
+color:     darkRed, deepSkyBlue, yellow, green
+
+
+-5.5  122
